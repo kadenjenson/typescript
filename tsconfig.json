@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    //"testing_ts.ts",
+    //"heyThere.ts",
+    //"001_variables.ts",
+    //"002_string_interpolation.ts",
+    //"003_types.ts",
+    //"004_type_alias.ts",
+    //"005_union_types.ts",
+    //"006_arithmetic_ops.ts",
+    // "007_conditionals.ts",
+    // "008_conditional_ops.ts",
+    //"009_compound_conditionals.ts",
+    //"010_loops.ts",
+    //"011_functions.ts",
+    //"012_function_args.ts",
+    //"013_function_declaration_vs_expressions.ts",
+    //"014_imm_invoked_func.ts",
+    //"015_closures.ts",
+    //"016_classes.ts",
+    //"017_inheritance.ts",
+    //"018_objects.ts",
+    //"019_interfaces.ts",
+    //"020_interface_func.ts",
+    //"021_interface_classes.ts",
+    "022_namespaces.ts"
+  ]
+}
