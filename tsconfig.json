@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "module": "amd",
+    "target": "es6",
     "sourceMap": true
   },
   "files": [
@@ -11,8 +13,8 @@
     //"004_type_alias.ts",
     //"005_union_types.ts",
     //"006_arithmetic_ops.ts",
-    // "007_conditionals.ts",
-    // "008_conditional_ops.ts",
+    //"007_conditionals.ts",
+    //"008_conditional_ops.ts",
     //"009_compound_conditionals.ts",
     //"010_loops.ts",
     //"011_functions.ts",
@@ -26,6 +28,9 @@
     //"019_interfaces.ts",
     //"020_interface_func.ts",
     //"021_interface_classes.ts",
-    "022_namespaces.ts"
+    //"022_namespaces.ts",
+    //"023_this.ts",
+    //"024_higher_order_function_callbacks.ts",
+    "025_promises.ts"
   ]
 }
